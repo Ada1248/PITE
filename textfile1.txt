@@ -5,3 +5,9 @@ Hello
 
 something 
 I'm a master!
+zero
+first line of text
+second 
+something else 
+
+branch dev
